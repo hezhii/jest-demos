@@ -1,0 +1,28 @@
+{
+  "name": "jest-demos",
+  "version": "1.0.0",
+  "description": "A collection of simple demos of Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhii/jest-demos.git"
+  },
+  "keywords": [
+    "Jest",
+    "demos",
+    "react",
+    "test"
+  ],
+  "author": "biu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hezhii/jest-demos/issues"
+  },
+  "homepage": "https://github.com/hezhii/jest-demos#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
